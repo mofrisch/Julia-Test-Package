@@ -1,0 +1,10 @@
+name = "TestPackage"
+uuid = "ab8fe432-b222-42ba-93c8-13d7b6d30746"
+authors = ["Moritz Frisch <mo68@posteo.net>"]
+version = "0.1.0"
+
+[deps]
+Coverage = "a2441757-f6aa-5fb2-8edb-039e3f45d037"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
