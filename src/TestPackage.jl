@@ -1,11 +1,9 @@
 module TestPackage
 using SpecialFunctions
 
-export mySpecialFunction
+export mySpecialFunction, mySpecialFunction2
 
-function greet()
-    print("Hello World!")
-end
+
 
 function mySpecialFunction(x)
     return x^2 * gamma(x)
